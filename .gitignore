@@ -1,0 +1,11 @@
+# Ignore heavy data folders
+api_data_aadhar_biometric/
+api_data_aadhar_demographic/
+api_data_aadhar_enrolment/
+
+# Ignore python cache
+__pycache__/
+*.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
